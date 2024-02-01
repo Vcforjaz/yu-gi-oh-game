@@ -14,4 +14,4 @@ Este repositório é referente ao término do projeto de desenvolvimento de um j
 
 <a href="https://vcforjaz.github.io/Meus-Projetos/yugioh.html">Clique aqui para visualizar o projeto no navegador</a>
 
-![image](https://github.com/Vcforjaz/Meus-Projetos/blob/main/yugioh.PNG?raw=true)
+![image](https://github.com/Vcforjaz/Meus-Projetos/blob/main/yugioh.png?raw=true)
